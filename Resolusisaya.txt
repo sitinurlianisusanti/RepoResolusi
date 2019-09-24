@@ -1,3 +1,5 @@
 -Bekerja
--Lanjut Kuliah
+-Lanjut Kuliah S1
+  - Lulus dengan IPK tertinggi
+
 -dll
